@@ -6,10 +6,10 @@
 .subtitulo{
     font-size: 40px;
     font-weight: 300;
-    text-align: center;
+    text-align: justify;
 }
 .texto{
-    text-align: center;
+    text-align: justify;
     font-size: 25px;
     font-weight: 300;
 }
@@ -20,4 +20,7 @@
 .fontes{
     font-size: 20px;
     font-weight: 500;
+}
+.body{
+    background-color: azure;
 }
