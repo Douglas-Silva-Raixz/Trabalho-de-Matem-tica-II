@@ -6,10 +6,10 @@
 .subtitulo{
     font-size: 40px;
     font-weight: 300;
-    text-align: justify;
+    text-align: center;
 }
 .texto{
-    text-align: justify;
+    text-align: center;
     font-size: 25px;
     font-weight: 300;
 }
@@ -20,5 +20,8 @@
 .fontes{
     font-size: 20px;
     font-weight: 500;
+}
+.botao{
+    font-size: 30px;
 }
 
