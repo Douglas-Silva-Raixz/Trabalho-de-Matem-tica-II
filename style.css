@@ -26,6 +26,9 @@
     font-weight: 500;
     align-items: center;
 }
+.botao-acessibilidade{
+    font-size: 30px;
+}
 .menu-acessibilidade{
     position: fixed;
     top:2rem;
